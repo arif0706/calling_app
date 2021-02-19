@@ -1,0 +1,15 @@
+package com.example.Service;
+
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.iid.FirebaseInstanceIdService;
+
+public class MyFirebaseService extends FirebaseInstanceIdService{
+
+    @Override
+    public void onTokenRefresh() {
+        super.onTokenRefresh();
+
+
+    }
+}

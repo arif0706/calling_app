@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034409066057",
+    "firebase_url": "https://mycallingapp-10599.firebaseio.com",
+    "project_id": "mycallingapp-10599",
+    "storage_bucket": "mycallingapp-10599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034409066057:android:15476692b61000004c0998",
+        "android_client_info": {
+          "package_name": "com.example.mycallingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034409066057-sgq4oua7q9jajro5t8iv4915p3jccut1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx71_GREsLhld9mnfRa9kH6BN_s61hgzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034409066057-sgq4oua7q9jajro5t8iv4915p3jccut1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
